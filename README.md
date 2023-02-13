@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there ⭐ 
 
-<!--
-**EvaAramburu/EvaAramburu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eva! East Asian Studies specialist and growing as full-stack web developer. 
+Feel free to check my projects and repositories, hope you find them useful!
 
-Here are some ideas to get you started:
+- ✨ Pronouns: She/Her
+- 🌍 Languages: Spanish, English and 日本語！
+- 🌱 I’m currently enrolled in a Full-stack web development bootcamp. Excited about this new journey
+- 📫 How to reach me: let's connect on Linkedin!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 💬 Working hard to give my cats a better life
