@@ -23,5 +23,5 @@ Feel free to check my projects and repositories! </h3>
 
 ## How am I doing in GitHub? 🌻 
 
-[![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=evaaramburu&theme=gruvbox)](https://github.com/evaaramburu/github-readme-stats) </br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaaramburu&layout=compact)](https://github.com/evaaramburu/github-readme-stats)
+[![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=evaaramburu&theme=gruvbox)](https://github.com/evaaramburu/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evaaramburu&layout=compact&theme=gruvbox)](https://github.com/evaaramburu/github-readme-stats)
