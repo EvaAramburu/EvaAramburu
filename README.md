@@ -1,21 +1,23 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="">
   <source media="(prefers-color-scheme: light)" srcset="">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="">
+  <img src="">
 </picture>
+
+ > <h2> 💬 Working hard to give my cats a better life <h2> 
+  
 # Welcome to my profile ⭐ 
 
 <h3> I'm Eva! East Asian Studies specialist and growing as full-stack web developer. 
 Feel free to check my projects and repositories! </h3> 
+
+## About me: 
 
 - ✨ Pronouns: She/Her
 - 🌍 Languages: Spanish, English and 日本語！
 - 🌱 I’m currently enrolled in a Full-stack web development bootcamp. Excited about this new journey
 - 📫 How to reach me: let's connect on Linkedin!
 
-
-
- > 💬 Working hard to give my cats a better life
 
 ## Some of my working tools and stacks 💻 </br></br> 
  
